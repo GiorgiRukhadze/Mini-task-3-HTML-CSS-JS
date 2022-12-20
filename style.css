@@ -1,0 +1,46 @@
+.div {
+  display: flex;
+  justify-content: center;
+  margin-top: 270px;
+}
+.button {
+  border: 2px solid black;
+  color: yellow;
+  background-color: black;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 30px;
+}
+.wina {
+  display: inline-block;
+  margin-left: 180px;
+  width: 600px;
+}
+.ukana {
+  display: inline-block;
+  width: 630px;
+}
+.winstyle {
+  display: flex;
+  font-size: 50px;
+  color: yellow;
+  justify-content: center;
+}
+.losestyle {
+  display: flex;
+  font-size: 50px;
+  color: red;
+  justify-content: center;
+}
+.photo {
+  display: flex;
+  position: absolute;
+  left: 370px;
+  margin-left: 100px;
+}
+.photo2 {
+  display: flex;
+  position: absolute;
+  left: 370px;
+  margin-left: 100px;
+}
